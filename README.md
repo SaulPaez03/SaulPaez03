@@ -1,4 +1,4 @@
-![](https://res.cloudinary.com/dyqejl4cd/image/upload/v1653409492/Hi__i_m_Saul_Paez_sr2wzm.png)
+![](https://res.cloudinary.com/dyqejl4cd/image/upload/c_scale,q_100,w_900/v1653409492/Hi__i_m_Saul_Paez_sr2wzm.png)
 
  I'm a Full Stack Developer and an intelectually courious person, therefore I'm always looking for new things to learn. I'm very apassionated about videogames and I'd like to be a Videogames Developer in the future.
 
