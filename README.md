@@ -13,8 +13,8 @@ Skills: JavaScript | TypeScript | React JS | Redux JS | Node JS | MaterialUI | E
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaulPaez03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saul-paez1004/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SaulPaez03)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=SaulPaez03)](https://github.com/ryo-ma/github-profile-trophy)
+ -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaulPaez03&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/SaulPaez03)  
