@@ -11,7 +11,7 @@ Skills: JavaScript | TypeScript | React JS | Redux JS | Node JS | MaterialUI | E
 - 😄 Pronouns: He/Him 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaulPaez03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saul-paez1004/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaulPaez03)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saul-paez1004/)  
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=SaulPaez03)](https://github.com/ryo-ma/github-profile-trophy)
  -->
