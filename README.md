@@ -19,7 +19,8 @@ Skills: JavaScript | TypeScript | React JS | Redux JS | Node JS | MaterialUI | E
 
 ![GitHub metrics](https://metrics.lecoq.io/SaulPaez03)  
 
-![Profile views](https://gpvc.arturio.dev/SaulPaez03)  
+![Profile views](https://gpvc.arturio.dev/SaulPaez03)
+![](https://komarev.com/ghpvc/?username=SaulPaez03&color=blue&style=for-the-badge)  
 
 <!--
 **SaulPaez03/SaulPaez03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
